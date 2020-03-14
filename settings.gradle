@@ -1,0 +1,2 @@
+rootProject.name='BtObd2Poc'
+include ':app'
